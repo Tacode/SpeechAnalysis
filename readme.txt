@@ -1,0 +1,2 @@
+将matlab的set path路径设定为basic_tbx  Pitch_ztlib的路径，才能正常运行。
+basic_tbx  Pitch_ztlib为语音处理的相关函数，《MATLAB在语音信号分析和合成中的应用》此书中的摘用
